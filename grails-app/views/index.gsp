@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Welcome you to Grails</title>
+        <title>Welcome Giuseppe to Grails</title>
         <meta name="layout" content="main" />
         <style type="text/css" media="screen">
 
